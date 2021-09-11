@@ -23,6 +23,6 @@
   
   ##
  
-  ![Snake animation](https://github.com/akirakyoto/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/akirakyoto/akirakyoto/blob/output/github-contribution-grid-snake.svg)
  
 </div>
