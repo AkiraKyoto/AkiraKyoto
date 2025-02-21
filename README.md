@@ -16,11 +16,5 @@
   ##
  
 <div> 
-  <a href="https://www.instagram.com/akjaum" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://open.spotify.com/user/tbp-jaum?si=c995a764f34747c4" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-  
-  ##
- 
   ![Snake animation](https://github.com/akjaum/akjaum/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
