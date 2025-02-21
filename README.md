@@ -1,8 +1,8 @@
 ## Seja bem vindo ao meu perfil. Eu me chamo João Gabriel!
  <div>
-  <a href="https://github.com/akirakyoto">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=akirakyoto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akirakyoto&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/akjaum">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=akjaum&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akjaum&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="js-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,6 +20,6 @@
   
   ##
  
-  ![Snake animation](https://github.com/akirakyoto/akirakyoto/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/akjaum/akjaum/blob/output/github-contribution-grid-snake.svg)
  
 </div>
