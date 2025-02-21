@@ -1,6 +1,7 @@
 ## Seja bem vindo ao meu perfil. Eu me chamo João Gabriel!
  <div>
   <a href="https://github.com/akjaum">
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akjaum)](https://github.com/akjaum/github-readme-stats)
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="js-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
